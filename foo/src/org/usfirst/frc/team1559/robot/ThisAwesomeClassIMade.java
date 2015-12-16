@@ -15,8 +15,5 @@ public class ThisAwesomeClassIMade {
 	public void setFoo(int f){
 		foo = f;
 	}
-	
-	foo foo foo foofoo
-	this class won't compile now lol'
-	
+
 }
